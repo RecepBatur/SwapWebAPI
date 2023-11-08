@@ -16,3 +16,25 @@ Bu proje temel olarak bitcoin alış ve satış işlemleri yapan Backend kısmı
 * Alış ve Satış emirlerinde statü durumu bulunmaktadır(Tamamlandı-Bekliyor-İptal edildi)
 * Yapılan tüm listelemelerde filtreleme, search ve paging işlemlerini uyguladım.
 * Proje içerisinde admin için ayrı, user için ayrı apiler yazıldı. Managerlar’ı da ayrı oluşturuldu.
+# Kullanmış Olduğum Teknolojiler Ve Yapılar
+.Net Core 6.0
+Entity Framework Core
+DTO
+Repository Design Pattern
+Dependency Injection
+Autofac
+Magic String
+Enum
+N-Tier Architecture
+JWT
+Rol Yönetimi
+Pagination
+Error & Success Result Yapısı
+Web API
+Authentication & Authorization
+Fluent Validation
+Extension Yapısı
+
+Veritabanı Olarak;
+MSSQL
+Database First
